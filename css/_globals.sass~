@@ -1,0 +1,6 @@
+/*Main COlors*/
+$white: #ffffff
+$black: #000000
+
+a
+	text-decoration: none !important
